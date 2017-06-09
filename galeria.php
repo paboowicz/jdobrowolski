@@ -84,7 +84,7 @@
 				$dir = "image/gallery/";
 				if ($handle = opendir($dir)) {
 				    while (false !== ($file = readdir($handle))) {
-					if ((strpos($file, '.jpg', 1)) || (strpos($file, '.JPG', 1))) {
+					if ((strpos($file, '.jpg', 1)) || (strpos($file, '.png', 1))) {
 					    if (filesize($dir . $file) > 0) {
 						$pliki[] = $file;
 					    }
@@ -116,12 +116,12 @@
 				$desc[] = array('"RYBY"','płótno, olej, 90 x 120','');
 				$desc[] = array('"Arena Gdańsk"', 'pł, olej, złoto','');
 				$desc[] = array('"Małe miasteczko kresowe"', 'pł, olej,złoto', '');
-				$desc[] = array('"Morze"', 'pastel, 70x100', '');
-				$desc[] = array('"Morze"', 'pastel, 100x70 (2)', '');
-				$desc[] = array('"Morze"', 'pastel, 100x70','');
-				$desc[] = array('"Nad Motławą"', 'pł,olej, złoto','');
-				$desc[] = array('"Stogi 2"', 'pł,olej,złoto','');
-				$desc[] = array('"Stogi 3"', 'pł, olej, złoto', '');
+				$desc[] = array('"Figi"', 'olej  ', '');
+				$desc[] = array('"Stogi"', 'olej, 30x40', '');
+				$desc[] = array('"Stogi"', 'olej, 30x40', '');
+				$desc[] = array('"Stogi"', 'olej, 30x40', '');
+				$desc[] = array('"Stogi"', 'olej, 30x40', '');
+				$desc[] = array('"Stogi"', 'olej, 30x40', '');
 				$desc[] = array('"Stogi"', 'pł,olej','');
 				$desc[] = array('"Tramwaj"','pł, olej','');
 				$desc[] = array('"Ulica Dług 2"','pł,olej, złoto','');
