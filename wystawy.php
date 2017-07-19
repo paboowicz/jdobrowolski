@@ -61,7 +61,9 @@
 <b>2008</b> - MCK Mieroszów<br/>
 <b>2011</b> - Galeria Dom Polski, Budapeszt<br/>
 Galeria Erd, Wêgry<br/>
-<b>2015</b> - Dom Sztuki, Gdańsk<br/><br/>
+<b>2015</b> - Dom Sztuki, Gdańsk<br/>
+<b>2017</b> - Galeria ZPAP, Toruń<br/>
+<br/>
 <b>Ważniejsze wystawy zbiorowe:</b><br/>
 <b>1986</b> - Dni kultury Chrześcijańskiej "Za Twe Hojne Dary"- Prokatedra Lubaczów<br/>
 <b>1995</b> - Hamurg - Tostedt, Niemcy<br/>
@@ -103,7 +105,7 @@ Muzeum im. Dunikowskiego - Królikarnia, Warszawa<br/>
 			<p>
 			    Rocznik 49-ty "JUDEX".<br/>
 			    Uprawia malarstwo, pastel.<br/>
-			    W swoim dorobku ma 23 wystawy indywidualne i liczne wystawy zbiorowe.<br/>
+			    W swoim dorobku ma 24 wystawy indywidualne i liczne wystawy zbiorowe.<br/>
 			    W 1987 roku zajął pierwsze miejsce w Konkursie Polskiego Stowaryszenia Edukacji Plastycznej Polski Południowo-Wschodniej za obraz "PIETA".<br/>
 			    Wiele jego prac znajduje sie w prywatnych kolekacjach w kraju i za granicą.
 			</p>
