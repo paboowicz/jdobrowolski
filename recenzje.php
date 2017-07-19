@@ -118,7 +118,7 @@ autentycznych płatków złota o wysokim jego nominale.”<br/>
 			<p>
 			    Rocznik 49-ty "JUDEX".<br/>
 			    Uprawia malarstwo, pastel.<br/>
-			    W swoim dorobku ma 23 wystawy indywidualne i liczne wystawy zbiorowe.<br/>
+			    W swoim dorobku ma 24 wystawy indywidualne i liczne wystawy zbiorowe.<br/>
 			    W 1987 roku zajął pierwsze miejsce w Konkursie Polskiego Stowaryszenia Edukacji Plastycznej Polski Południowo-Wschodniej za obraz "PIETA".<br/>
 			    Wiele jego prac znajduje sie w prywatnych kolekacjach w kraju i za granicą.
 			</p>
@@ -130,7 +130,7 @@ autentycznych płatków złota o wysokim jego nominale.”<br/>
 			<h4 class="title2">PRACOWNIE</h4>
 			<p>
 			    GDAŃSK - ul. Tamka<br/>
-			    
+			    Lubaczów - ul. Kopernika<br/>
 			    <br/>
 			    e-mail: idobrowolski@wp.pl<br/>
 			    kom. 661 882 240
