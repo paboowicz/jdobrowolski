@@ -57,6 +57,7 @@ a{ color: inherit; }
 .header {
     height: 660px;
     background: url(../image/bgHead.jpg) center top no-repeat #000;
+    min-width: 1600px;
 }
 
 .header .wrapper { position: relative; }
@@ -70,6 +71,7 @@ a{ color: inherit; }
 .vbar { 
     background: #7f7188;
     font-size: 12px;
+    min-width: 1600px;
 }
 .vbar .panelL {
     float: left;
