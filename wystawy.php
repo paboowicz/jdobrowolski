@@ -62,7 +62,6 @@
 <b>2011</b> - Galeria Dom Polski, Budapeszt<br/>
 Galeria Erd, Wêgry<br/>
 <b>2015</b> - Dom Sztuki, Gdańsk<br/>
-<b>2017</b> - Galeria ZPAP, Toruń<br/>
 <br/>
 <b>Ważniejsze wystawy zbiorowe:</b><br/>
 <b>1986</b> - Dni kultury Chrześcijańskiej "Za Twe Hojne Dary"- Prokatedra Lubaczów<br/>
@@ -85,6 +84,7 @@ Muzeum im. Dunikowskiego - Królikarnia, Warszawa<br/>
 <b>2010</b> - Muzeum Narodowe, Warszawa<br/>
 <b>2012</b> - Urząd Marszałkowski, Rzeszów<br/>
 <b>2016</b> - Dom Sztuki- Artyści dzielnicy, Gdańsk<br/>
+<b>2017</b> - Galeria ZPAP, Toruń<br/>
 				</b>
 
 				
