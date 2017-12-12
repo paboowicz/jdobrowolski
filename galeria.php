@@ -102,20 +102,20 @@
 				$desc[] = array('"PTAKI"','płótno, olej, 131 x 97,5','cena: 1200 EURO');
 				$desc[] = array('"MAJA"','płótno, olej, 97 x 130','');
 				$desc[] = array('"Aptaki"','płótno, olej, 130 x 97,5','');
-				$desc[] = array('"AKT"','płótno, olej, 80 x 40','');
-				$desc[] = array('SZKIC OLEJNY STOGI','','');
-				$desc[] = array('SZKIC OLEJNY','','');
+				$desc[] = array('"Gdańsk"','płótno, olej, 80 x 40','');
+				$desc[] = array('Gdańsk','','');
+				$desc[] = array('Gdańsk','','');
 				
 				$desc[] = array('"GDAŃSK"','płótno, olej + złoto, 90 x 120','');
 				$desc[] = array('"KRESY"','płótno, olej + złoto, 90 x 120','');
-				$desc[] = array('"KRESY"','płótno, olej + złoto, 90 x 120','');
-				$desc[] = array('"MOTŁAWA"','płótno, olej + złoto, 90 x 120','');
-				$desc[] = array('"PEJZAŻ"','płótno, olej + złoto, 90 x 120','');
+				$desc[] = array('"Arena Gdańsk"','płótno, olej + złoto, 90 x 120','');
+				$desc[] = array('"Małe miasteczko"','płótno, olej + złoto, 90 x 120','');
+				$desc[] = array('"Motława"','płótno, olej + złoto, 90 x 120','');
 				$desc[] = array('"PEJZAŻ"','płótno, olej + złoto, 70 x 100','');
-				$desc[] = array('"MONTRMARTE"','płótno, olej + złoto, 80 x 90','');
-				$desc[] = array('"RYBY"','płótno, olej, 90 x 120','');
-				$desc[] = array('"Arena Gdańsk"', 'pł, olej, złoto','');
-				$desc[] = array('"Małe miasteczko kresowe"', 'pł, olej,złoto', '');
+				$desc[] = array('"Stogi"','płótno, olej + złoto, 80 x 90','');
+				$desc[] = array('"Stogi"','płótno, olej, 90 x 120','');
+				$desc[] = array('"Szkic olejny (w tramwaju)"', 'pł, olej, złoto','');
+				
 				$desc[] = array('"Figi"', 'olej  ', '');
 				$desc[] = array('"Stogi"', 'olej, 30x40', '');
 				$desc[] = array('"Stogi"', 'olej, 30x40', '');
