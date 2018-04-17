@@ -98,6 +98,11 @@ autentycznych płatków złota o wysokim jego nominale.”<br/>
 
 <p align="right">Prof. Marian Kopf, Krakow</p>
 
+<p align="center">***</p>
+<br/>
+<p>Egzystencjalny portret człowieka i ta postawa, która wydaje się najistotniejsza w tych pracach, to ona przemawia nad oryginalnością spojrzenia i swoją interpretacją postawy. Postawy, która prezentuje w obrazie "Krzyk" najbardziej zbliżającej ten obraz do autoportretu, choć autoportretem nie jest, bo też nie taki był zamiar. Dobrowolski maluje postaci obce, ale znane sobie, kiedyś spotkane. Trudno w nich znaleźć podobieńśtwa do rzeczywistego wyglądu bowiem ten wygląd przejawia się nie w osobowości, a jedynie w duchu osoby i tego co go otacza. "Krzyk" to właśnie tego typu autoportret, duch czasu wyznaczył taką, a nie inną interpretację.</p>
+<p align="right">Stanisław Seyfried, Gdańsk</p>
+
 
 
 

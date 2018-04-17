@@ -117,20 +117,11 @@
 				$desc[] = array('"Szkic olejny (w tramwaju)"', 'pł, olej, złoto','');
 				
 				$desc[] = array('"Figi"', 'olej  ', '');
-				$desc[] = array('"Stogi"', 'olej, 30x40', '');
-				$desc[] = array('"Stogi"', 'olej, 30x40', '');
-				$desc[] = array('"Stogi"', 'olej, 30x40', '');
-				$desc[] = array('"Stogi"', 'olej, 30x40', '');
-				$desc[] = array('"Stogi"', 'olej, 30x40', '');
-				$desc[] = array('"Stogi"', 'pł,olej','');
-				$desc[] = array('"Tramwaj"','pł, olej','');
-				$desc[] = array('"Ulica Dług 2"','pł,olej, złoto','');
-				
-				
-				
-				
-				
-				
+				$desc[] = array('"Krzyk"', 'olej, 130x100', '');
+				$desc[] = array('"Panna młoda"', 'olej, 130x100', '');
+				$desc[] = array('"Ptasiek"', 'olej, 120x100', '');
+				$desc[] = array('"Pusty Staw"', 'olej, 100x120', '');
+				$desc[] = array('"San"', 'olej, 100x130', '');
 				?>
 				
 				<script type="text/javascript">
