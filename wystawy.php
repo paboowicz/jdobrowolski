@@ -62,6 +62,8 @@
 <b>2011</b> - Galeria Dom Polski, Budapeszt<br/>
 Galeria Erd, Wêgry<br/>
 <b>2015</b> - Dom Sztuki, Gdańsk<br/>
+<b>2018</b> - Galeria ZPAP, Gdańsk<br/>
+
 <br/>
 <b>Ważniejsze wystawy zbiorowe:</b><br/>
 <b>1986</b> - Dni kultury Chrześcijańskiej "Za Twe Hojne Dary"- Prokatedra Lubaczów<br/>
